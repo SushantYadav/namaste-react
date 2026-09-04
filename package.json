@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste React Tutorial",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SushantYadav/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sushant Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SushantYadav/namaste-react/issues"
+  },
+  "homepage": "https://github.com/SushantYadav/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
